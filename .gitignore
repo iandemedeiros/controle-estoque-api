@@ -42,8 +42,7 @@ Thumbs.db
 # Environment / Secrets
 .env
 .env.*
-application-prod.properties
-application-local.properties
+application-dev.properties
 
 # H2 database files (caso use file)
 *.mv.db
